@@ -98,6 +98,18 @@ class MessageImpl implements Message {
         throw new RuntimeException()
     }
 
+    void setSoapHeaders(java.util.List l) {
+        throw new RuntimeException()
+    }
+
+    void clearSoapHeaders() {
+        throw new RuntimeException()
+    }
+
+    java.util.List getSoapHeaders() {
+        throw new RuntimeException()
+    }
+
     @Override
     String toString() {
         def result = "MessageImpl\n"
