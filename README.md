@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **Archived on 2025-11-25**
+
 # scpi-script-executor
 
 Run your SAP Cloud Platform Integration Groovy scripts on your local machine for easier test and debugging.
